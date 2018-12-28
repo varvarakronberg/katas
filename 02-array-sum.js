@@ -4,7 +4,6 @@
 
 function sum(arr) {
     // your code here
-    return arr.reduce((i, j) => i + j);
 }
 
 module.exports = sum;

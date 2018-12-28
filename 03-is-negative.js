@@ -4,6 +4,5 @@
 
 function isNegative(number) {
     //your code
-    return number < 0;
 }
 module.exports = isNegative;

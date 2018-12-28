@@ -4,8 +4,5 @@
 
 function min(array) {
     //your code
-    return array.reduce((min, p) => p < min
-        ? p
-        : min, array[0]);
 }
 module.exports = min;

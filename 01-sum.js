@@ -4,7 +4,6 @@
 
 function sum(a, b) {
     // your code here
-    return a + b;
 }
 
 module.exports = sum;
