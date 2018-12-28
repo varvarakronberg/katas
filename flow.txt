@@ -1,0 +1,3 @@
+git reset --hard HEAD
+npm install
+npm test
