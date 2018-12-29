@@ -4,5 +4,12 @@
 
 function min(array) {
     //your code
+    var minimum = Infinity;
+    for (var i = 0; i < array.length; i++) {
+        if (array[i] < minimum) {
+            minimum = array[i];
+        }
+    }
+    return minimum;
 }
 module.exports = min;
