@@ -3,6 +3,7 @@
  */
 
 function sum(a, b) {
+    return a + b;
     // your code here
 }
 
