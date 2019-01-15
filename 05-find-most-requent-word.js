@@ -1,5 +1,5 @@
 /**
- * Write a function that the most frequent word in text.
+ * Write a function that returns the most frequent word in text.
  * Assume there's only one correct answer.
  */
 
